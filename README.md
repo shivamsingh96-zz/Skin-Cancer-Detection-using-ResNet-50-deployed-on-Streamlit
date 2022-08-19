@@ -15,3 +15,4 @@ Save the file in hdf5 format, you can download the hdf5 file of this model from 
 ### Step 4:
 Deployed the model using streamlit api by running the code app(1).py on pycharm or vscode.
 
+![Dermoscopic-images-MMC-A-D-A-superficial-extensive-melanoma-Breslow-25-mm-Clark](https://user-images.githubusercontent.com/25512517/185556328-02c88765-d7b4-4fe8-aecd-20bd01079061.png)
